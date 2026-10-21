@@ -4,7 +4,7 @@
 
 A CV/Résumé Builder built as part of The Odin Project's React curriculum. Users can enter their personal information, education, and work experience to generate a professional résumé with real-time updates while practicing core React concepts.
 
-[Odin CV Application](https://krig6.github.io/odin-cv-application/) - Because every professional deserves a well-rendered first impression.
+[Odin CV Application](https://ekodesjuliet.github.io/odin-cv-application/) - Because every professional deserves a well-rendered first impression.
 
 ## Technologies Used
 
